@@ -1,0 +1,44 @@
+_repo: Literature-in-the-Makingby-some-of-its-makers_34313
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34313-h/images/coverill.png
+creator:
+  editor:
+    agent_name: Kilmer, Joyce
+    alias: Kilmer, Alfred Joyce
+    birthdate: 1886
+    deathdate: 1918
+    gutenberg_agent_id: '149'
+    url: http://www.gutenberg.org/2009/agents/149
+    wikipedia: http://en.wikipedia.org/wiki/Joyce_Kilmer
+description: ''
+gutenberg_issued: '2010-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34313'
+  lccn: '17013416'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, American'
+- !lcc 'PN'
+- !lcsh 'American literature -- History and criticism'
+tableOfContents: War stops literature / William Dean Howells -- The joys of the poor
+  / Kathleen Norris -- National prosperity and art / Booth Tarkington -- Romanticism
+  and American humor / Montague Glass -- The "movies" benefit literature / Rex Beach
+  -- What is genius? by Robert W. Chambers -- Deterioration of the short story / James
+  Lane Allen -- Some harmful influences / Harry Leon Wilson -- The passing of the
+  snob / Edward S. Martin -- Commercializing the sex instinct / Robert Herrick --
+  Sixteen don'ts for poets / Arthur Guiterman -- Magazines cheapen fiction / George
+  Barr McCutcheon -- Business incompatible with art / Frank H. Spearman -- The novel
+  must go / Will N. Harben -- Literature in the colleges / John Erskine -- City life
+  versus literature / John Burroughs -- "Evasive idealism" in literature / Ellen Glasgow
+  -- "Chocolate fudge" in the magazine / Fannie Hurst -- The new spirit in poetry
+  / Amy Lowell -- A new definition of poetry / Edwin Arlington Robinson -- Let poetry
+  be free / Josephine Preston Peabody -- The heresy of supermanism / Charles Rann
+  Kennedy -- The masque and democracy / Percy MacKaye.
+title: Literature in the Making, by Some of Its Makers
+url: http://www.gutenberg.org/ebooks/34313
